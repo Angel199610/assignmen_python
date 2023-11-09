@@ -1,15 +1,3 @@
-# class Person:
-#   def __init__(name, age, location):
-#     name
-#     self.name = name
-#     self.age = age
-
-#   def myfunc(self):
-#     print("Hello my name is " + self.name)
-
-# p1 = Person("John", 36)
-# p1.myfunc()
-
 #Printing user's name and age
 class Person:
   def __init__(self, name, age):
